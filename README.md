@@ -28,7 +28,7 @@ Aquarium owners and aquaculture professionals often struggle to manage multiple 
 * Software: Arduino IDE, Firebase (or similar), Flutter/Web (for UI)
 * Communication: Serial, Wi-Fi (MQTT or HTTP)
 
-## 📱 User Interface
+## User Interface
 
 Users can access:
   * Live data from their fish tanks
